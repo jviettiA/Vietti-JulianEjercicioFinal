@@ -1,0 +1,6 @@
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Model\bin\Debug\Model.dll
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Model\bin\Debug\Model.pdb
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Model\obj\Debug\Model.dll
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Model\obj\Debug\Model.pdb

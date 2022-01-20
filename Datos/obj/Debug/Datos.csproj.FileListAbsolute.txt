@@ -1,0 +1,10 @@
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\bin\Debug\Datos.dll.config
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\bin\Debug\Datos.dll
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\bin\Debug\Model.dll
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\bin\Debug\Model.pdb
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\obj\Debug\Datos.dll
+C:\Users\JVIETTI\source\repos\EjercicioFinal\Datos\obj\Debug\Datos.pdb
